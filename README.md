@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Snake animation](https://github.com/diamond1516/diamond1516/blob/output/github-contribution-grid-snake.svg)
 <!--
 **diamond1516/diamond1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
